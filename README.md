@@ -20,9 +20,18 @@ Use the Dockerfile in this repository that will build an image with the app, or 
 ```bash
 docker-compose up
 ```
+
+## Roles
+
+| Role               | Name                  | GitHub Username |
+| ------------------ | --------------------- | --------------- |
+| Product Manager    | Alan Parkinson        | @aparkinson     |
+| Software Developer | George McCreadie      | @isitgeorge     |
+| Software Developer | Matt Cooper           | @mc00905        |
+| Software Developer | Gulistan 'Rose' Boylu | @gulistanboylu  |
 ### example for multi line code
 
-```bash 
+```javascript 
 let mix = require('laravel-mix');
 let tailwindcss = require('tailwindcss');
 
@@ -30,3 +39,4 @@ let tailwindcss = require('tailwindcss');
 mix.postCss('dev/styles.css', 'prod/css', [
   tailwindcss('./tailwind.config.js'),
 ])```
+
