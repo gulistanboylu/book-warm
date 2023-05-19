@@ -20,3 +20,13 @@ Use the Dockerfile in this repository that will build an image with the app, or 
 ```bash
 docker-compose up
 ```
+### example for multi line code
+
+```bash 
+let mix = require('laravel-mix');
+let tailwindcss = require('tailwindcss');
+
+
+mix.postCss('dev/styles.css', 'prod/css', [
+  tailwindcss('./tailwind.config.js'),
+])```
