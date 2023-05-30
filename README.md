@@ -1,4 +1,5 @@
-# Hotel-booking [![CircleCI](https://circleci.com/gh/hindsightsoftware/hotel-booking.svg?style=svg)](https://circleci.com/gh/hindsightsoftware/hotel-booking)
+# New Commit
+
 A personal to keep a book log 
 
 Hotel booking is a test app used for BDD tooling training. It is a simple API with a user interface that allows you to create, read, update and delete bookings.
@@ -39,4 +40,3 @@ let tailwindcss = require('tailwindcss');
 mix.postCss('dev/styles.css', 'prod/css', [
   tailwindcss('./tailwind.config.js'),
 ])```
-
