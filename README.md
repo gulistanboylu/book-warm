@@ -1,4 +1,4 @@
-# New Commit coming soon 21rrvuuuuuttnnnn
+# New Commit coming soon
 
 A personal to keep a book log logn
 
