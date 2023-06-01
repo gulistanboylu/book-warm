@@ -1,6 +1,6 @@
 # New Commit coming soon 21rrvuuuuutt
 
-A personal to keep a book log log
+A personal to keep a book log logn
 
 Hotel booking is a test app used for BDD tooling training. It is a simple API with a user interface that allows you to create, read, update and delete bookings.
 
