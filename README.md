@@ -4,7 +4,7 @@ A personal to keep a book log logn
 
 Hotel booking is a test app used for BDD tooling training. It is a simple API with a user interface that allows you to create, read, update and delete bookings.
 
-## Run via Maven
+## Run via Mavenbbbb
 
 You will need to have `mvn` (version 3.5 or later), `npm`, and `node` (version 14.x) installed.
 
