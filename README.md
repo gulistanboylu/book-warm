@@ -1,6 +1,6 @@
 # other branch Hotel-booking [![CircleCI](https://circleci.com/gh/hindsightsoftware/hotel-booking.svg?style=svg)](https://circleci.com/gh/hindsightsoftware/hotel-booking)
 
-A personal to keep a book log test branch updated
+A personal to keep a book log test branch updated mi
 
 Hotel booking is a test app used for BDD tooling training. It is a simple API with a user interface that allows you to create, read, update and delete bookings.
 
