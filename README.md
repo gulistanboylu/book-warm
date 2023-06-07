@@ -1,4 +1,4 @@
-# other branch Hotel-booking [![CircleCI](https://circleci.com/gh/hindsightsoftware/hotel-booking.svg?style=svg)](https://circleci.com/gh/hindsightsoftware/hotel-booking)
+# other branch Hotel-booking-branch [![CircleCI](https://circleci.com/gh/hindsightsoftware/hotel-booking.svg?style=svg)](https://circleci.com/gh/hindsightsoftware/hotel-booking)
 
 A personal to keep a book log test branch updated mi
 
