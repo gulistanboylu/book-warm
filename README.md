@@ -1,4 +1,4 @@
-# New Commit test testing the conflict
+# New Commit test testing the change
 
 A personal to keep a book log logn log
 
