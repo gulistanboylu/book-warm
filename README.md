@@ -1,18 +1,23 @@
 # test the branch is edited here really?[![CircleCI](https://circleci.com/gh/hindsightsoftware/hotel-booking.svg?style=svg)](https://circleci.com/gh/hindsightsoftware/hotel-booking)
 
-A personal to keep a book log test branch updated mi
+A **personal to keep a book log test branch updated mi**
 
-Hotel booking is a test app used for BDD tooling training. It is a simple API with a user interface that allows you to create, read, update and delete bookings.
+H_otel booking is a test app used for BDD tooling training. It is a simple API with a user interface that allows you to create, read, update and delete bookings._
 
-## Run via Maven
+> ## Run via Maven
 
-You will need to have `mvn` (version 3.5 or later), `npm`, and `node` (version 14.x) installed.
+*   You will need to have `mvn` (version 3.5 or later), `npm`, and `node` (version 14.x) installed.
 
 ```test
 mvn spring-boot:run
 ```
 
-You will be able to access the UI via [localhost:8080](#) as well as view the Swagger API documentation via <http://localhost:8080/swagger-ui.html>
+1.  You will be able to access the UI via [localhost:8080](#) as well as view the Swagger API documentation via <http://localhost:8080/swagger-ui.html>
+
+| add | some | table |
+| :-- | :--- | :---- |
+|     |      |       |
+|     |      |       |
 
 ## Run via Docker
 
