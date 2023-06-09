@@ -1,20 +1,26 @@
 # main branch title same file edit change 30
 
-Test the changes&#x20;
+**Test the changes**&#x20;
 
 ## Run via Mavenbbbb
 
-You will need to have `mvn` (version 3.5 or later), `npm`, and `node` (version 14.x) installed.
+Y_ou will need to have `mvn` (version 3.5 or later), `npm`, and `node` (version 14.x) installed._
 
 ```test
 mvn spring-boot:run
 ```
 
-You will be able to access the UI via [localhost:8080](#) as well as view the Swagger API documentation via <http://localhost:8080/swagger-ui.html>
+Y~~ou will be able to access the UI vi~~a [localhost:8080](#) as well as view the Swagger API documentation via <http://localhost:8080/swagger-ui.html>
 
 ## Run via Docker
 
-Use the Dockerfile in this repository that will build an image with the app, or use the `docker-compose.yml` file which does it automatically for you:
+| test | table |    |
+| :--- | :---- | :- |
+|      |       |    |
+|      |       |    |
+
+*   Use the Dockerfile in this repository that will build an image with the app, or use the `docker-compose.yml` file which does it automatically for you:
+*   test bullets
 
 ```bash
 docker-compose up
