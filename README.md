@@ -1,13 +1,6 @@
 # main branch title same file edit change 30
 
-1.  A per**sonal to keep a book log logn log**
-
-*   Hotel boo~~king is a test app used for BDD~~ tooling training. It is a simple API with a user interface that allows you **to create, read, update and delete bookings.**
-    *
-        | test | table |    |
-        | :--- | :---- | :- |
-        |      |       |    |
-        |      |       |    |
+Test the changes&#x20;
 
 ## Run via Mavenbbbb
 
