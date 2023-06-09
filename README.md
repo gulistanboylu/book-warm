@@ -1,8 +1,13 @@
 # main branch title same file edit change 30
 
-1.  A personal to keep a book log logn log
+1.  A per**sonal to keep a book log logn log**
 
-*   Hotel booking is a test app used for BDD tooling training. It is a simple API with a user interface that allows you **to create, read, update and delete bookings.**
+*   Hotel boo~~king is a test app used for BDD~~ tooling training. It is a simple API with a user interface that allows you **to create, read, update and delete bookings.**
+    *
+        | test | table |    |
+        | :--- | :---- | :- |
+        |      |       |    |
+        |      |       |    |
 
 ## Run via Mavenbbbb
 
